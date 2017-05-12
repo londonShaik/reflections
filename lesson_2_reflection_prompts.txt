@@ -1,3 +1,4 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 	initializing a repository is the first way to create a repository on your system. A .git file gets stored into your directory and it has all the details which make the directory a repository.
+
