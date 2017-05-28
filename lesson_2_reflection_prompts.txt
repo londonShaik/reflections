@@ -2,3 +2,7 @@ What happens when you initialize a repository? Why do you need to do it?
 
 	initializing a repository is the first way to create a repository on your system. A .git file gets stored into your directory and it has all the details which make the directory a repository.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+	the staging area acts as an intermediate step between the working directory and the repository. so it just ensures that you are doing one commit per logical change. it like gives you a second chance to review this.
+
