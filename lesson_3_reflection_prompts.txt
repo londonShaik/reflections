@@ -10,3 +10,6 @@ Describe the differences between forks, clones, and branches. When would you use
 
 	branch - to add another feature, work on developement etc.; clone - github to local system copy; fork - github to github copy, when you want to add suggestions to someone else's repo also crediting him of the work done so far by him.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	you can locally add your changes to the repo without affecting the remote. then, once it is done, you can see how ahead you are from the remote. Also, after finalizing whether you add the feature to the repo or not, you can push your changes.
