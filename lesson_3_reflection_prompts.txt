@@ -13,3 +13,8 @@ Describe the differences between forks, clones, and branches. When would you use
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 	you can locally add your changes to the repo without affecting the remote. then, once it is done, you can see how ahead you are from the remote. Also, after finalizing whether you add the feature to the repo or not, you can push your changes.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	collaborating without using github would be really hard. I would've used mails to send and receive updated versions of my collaborated repos. And i think it would be pretty impossible to replicate the functionality of git merge., or may be working on individual features in a project.
+
